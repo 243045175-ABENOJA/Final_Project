@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio UI</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="frames">
+        <div class="profile">
+          <img src="images/Me_in_Suit.jpg" alt="Profile" />
+        </div>
+
+        <div class="information">
+          <div class="card" data-key="about">About Me</div>
+          <div class="card" data-key="transcripts">Academic Transcripts</div>
+          <div class="card" data-key="certs">Licences and Certifications</div>
+          <div class="card" data-key="portfolio">My Portfolio</div>
+          <div class="card" data-key="work">Work Experience</div>
+          <div class="card" data-key="contact">Contact Information</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="modal">
+      <div class="modal-content">
+        <span id="close">&times;</span>
+        <div id="modal-text"></div>
+      </div>
+    </div>
+  </body>
+</html>
