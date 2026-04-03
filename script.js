@@ -10,7 +10,6 @@ const sections = {
     <p><strong>Skills:</strong></p>
     <li>Knowledgeable in the area of the programming languages Python, Java, SQL, HTML, JavaScript, CSS.</li>
     <li>Knowledgeable in Weka data mining tool.</li>
-    
   
   `,
   transcripts: `
