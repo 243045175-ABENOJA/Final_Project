@@ -4,34 +4,28 @@ const closeBtn = document.getElementById("close");
 
 // content map
 const sections = {
-  about: `
+  aboutme: `
     <h2>About Me</h2>
     <p><strong>Name:</strong> Nestor Ozbert S. Abenoja</p>
-    <p><strong>Skills:</strong></p>
-    <li>Knowledgeable in the area of the programming languages Python, Java, SQL, HTML, JavaScript, CSS.</li>
-    <li>Knowledgeable in Weka data mining tool.</li>
-  
+    <li>An aspiring Network Engineer</li>
   `,
-  transcripts: `
+  education: `
     <h2>Academic Transcripts</h2>
     <li>Bachelor of Science in Information Technology, University of the Cordilleras</li>
   `,
-  certs: `
-    <h2>Certifications and Skills:</h2>
-    <p><strong>Certificates:</strong> N/A</p>
-    <p><strong>Skills:</strong> N/A</p>
+  experience: `
+    <h2>Experience</h2>
+    <p>N/A</p>
   `,
-  portfolio: `
-    <h2>My Portfolio</h2>
-    <p><strong>Projects:</strong> N/A</p>
+  skills: `
+    <h2>Skills</h2>
+    <li>Knowledgeable in the area of the programming languages Python, Java, SQL, HTML, JavaScript, CSS.</li>
+    <li>Knowledgeable in Weka data mining tool.</li>
   `,
-  work: `
-    <h2>Work Experience</h2>
-    <li>N/A</li>
-  `,
-  contact: `
+  
+  contacts: `
     <h2>Contact Information</h2>
-    <li><strong>Work Email:</strong> n.o.s.abenoja@email.com</li>
+    <li><strong>Work Email:</strong> n.o.s.abenoja@gmail.com</li>
     <li><strong>Contact Number:</strong> 0999599588533099</li>
   `
 };
