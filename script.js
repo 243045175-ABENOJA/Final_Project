@@ -17,9 +17,9 @@ const sections = {
     <li>Bachelor of Science in Information Technology, University of the Cordilleras</li>
   `,
   certs: `
-    <h2>Licenses and Certifications</h2>
-    <p><strong>Licenses:</strong> N/A</p>
+    <h2>Certifications and Skills:</h2>
     <p><strong>Certificates:</strong> N/A</p>
+    <p><strong>Skills:</strong> N/A</p>
   `,
   portfolio: `
     <h2>My Portfolio</h2>
